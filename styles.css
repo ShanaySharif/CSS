@@ -30,6 +30,15 @@ div {
   } */
 
   img{
+    height: 85%;
+    width: 85%
+    
+  }
+
+  .logo{
     height: 30%;
     width: 20%
+
+
   }
+  
