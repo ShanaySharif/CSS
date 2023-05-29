@@ -39,3 +39,7 @@ img {
 .end{
   text-align:center;
 }
+
+.contact-info{
+  width: fit-content;
+}
