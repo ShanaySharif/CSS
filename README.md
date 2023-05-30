@@ -1,4 +1,4 @@
-# _Shankaron Mohamed _
+# Portfolio landing project!
 
 #### By Shankaron Mohamed 
 
@@ -7,15 +7,12 @@
 
 
 ## Technologies Used
-The technology I used was HTML and CSS
-* _List all_
-* _the major technologies_
-* _you used in your project_
-* _here_
+The technology I used was 
+HTML and CSS
+
 
 ## Description
-
-_{This is a detailed description of your application. Give as much detail as needed to explain what the application does as well as any other information you want users or other developers to have.}_
+In this project, I utilized HTML and css. 
 
 ## Setup/Installation Requirements
 
