@@ -25,7 +25,7 @@ custom-made stylesheet that uses typography styles, the box model. This project 
 There are currently no known bugs. 
 
 ## License
-<a href=https://choosealicense.com/licenses/mit/# MIT</a>
+<a href=https://choosealicense.com/licenses/mit/#> MIT</a>
 
 Copyright (c) 2023 Shankaron Mohamed
 
